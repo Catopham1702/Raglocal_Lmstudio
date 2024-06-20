@@ -1,4 +1,4 @@
-# Các Bước ChatbotPDF cung cấp câu trả lời dựa của người dùng dựa trên các file PDF:
+# Các Bước ChatbotPDF cung cấp câu trả lời của người dùng dựa trên các file PDF:
 
 - PDF Loading: Chatbot đọc nội dung của PDF và trích xuất nội dung của văn bản  
 - Text Chunking: Văn bản được trích xuất được chia ra các phần nhỏ hơn để xử lý
