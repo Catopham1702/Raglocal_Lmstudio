@@ -27,4 +27,4 @@ B4:
 streamlit run query_local_streamlit.py
 ```
 
-##Sử dụng file "update_database.py" để cập nhật lại tài liệu trong DB
+## Sử dụng file "update_database.py" để cập nhật lại tài liệu trong DB
