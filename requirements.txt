@@ -1,13 +1,13 @@
-langchain
-unstructured[pdf] # Document loading
-chromadb # Vector storage
-tiktoken  # For embeddings
-altair
-huggingface-hub
-InstructorEmbedding
-sentence-transformers
-kaleido
-python-multipart
-cohere
-openai
+langchain==0.2.5
+unstructured[pdf]==0.14.6 #Document loading
+chromadb==0.5.3 #vector storage
+tiktoken==0.7.0 #for embedding
+altair==5.3.0
+huggingface-hub==0.23.4
+InstructorEmbedding==1.0.1
+sentence-transformers==3.0.1
+kaleido==0.2.1
+python-multipart==0.0.9
+cohere==5.5.8
+openai==1.35.1
 typing-extensions
