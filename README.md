@@ -5,7 +5,7 @@
 - Language Model (API LM Studio): Chatbot dùng mô hình ngôn ngữ để tạo ra các vector biểu diễn(Embeddings) cho các đoạn văn bản vừa được chunking
 - Dùng ChormaDB lưu trữ các vector của các file PDF trong ./data/ vừa được Embeddings để có một kho lưu trữ ổn định
 - Có thể cập nhật lại tài liệu trong ChromaDB
-- 
+
 
 #### Python==3.11
 ### Các bước dùng repo:
