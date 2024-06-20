@@ -17,7 +17,12 @@ B2:
 ```
 run creat_database.py
 ```
-B3: 
+B3:
+```
+start sever trên LM Studio
+```
+
+B4:
 ```
 streamlit run query_local_streamlit.py
 ```
